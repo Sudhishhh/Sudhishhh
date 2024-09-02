@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @skxopw
-- 👀 I’m interested in creating extensions for web apps
+- 👋 Hi, I’m skxopw
+- 👀 I’m interested in creating extensions for chrome and contributing to spicetify
 - 🌱 I’m currently learning html, css and js
-- 💞️ I’m looking to collaborate on spicetify
 - 📫 Connect with me on discord 'skxopw'
-- 😄 Pronouns: he/him
 
 
 <!---
