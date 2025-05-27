@@ -1,7 +1,6 @@
-- 👋 Hi, I’m skxopw
-- 👀 I’m interested in creating extensions for chrome 
-- 🌱 I’m currently learning html, css and js
-- 📫 Connect with me on discord 'skxopw'
+- 👋 Hi, I’m Sudhish
+- 🌱 I’m currently learning python
+
 
                                                                 ⚡ Current Stats⚡
 
