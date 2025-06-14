@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sudhish
-- 🌱 I’m currently learning Python
+-  currently learning Python
 
 
                                                                 ⚡ Current Stats⚡
