@@ -1,5 +1,3 @@
--  currently learning Python
-
 
                                                                 ⚡ Current Stats⚡
 
